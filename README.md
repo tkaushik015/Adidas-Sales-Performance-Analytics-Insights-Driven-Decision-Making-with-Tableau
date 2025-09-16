@@ -1,4 +1,4 @@
-# 📊 Adidas Sales Analysis Dashboard
+# 📊 [Adidas Sales Analysis Dashboard](https://public.tableau.com/app/profile/tushar.kaushik6195/viz/AdidasSales_17580140411970/Story1?publish=yes)
 
 An interactive **Tableau Story Dashboard** analyzing Adidas product sales across regions, retailers, and sales methods.  
 This project demonstrates **data storytelling** using Tableau to uncover insights in sales performance.  
